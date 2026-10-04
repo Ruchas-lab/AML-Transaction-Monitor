@@ -1,0 +1,181 @@
+customer_id,customer_name,jurisdiction,business_type,account_opened,pep_flag,expected_monthly_volume
+CUS10000,Entity 1 S.A.,AT,Manufacturing,2020-10-12,False,1000000
+CUS10001,Entity 2 GmbH,KE,Financial Services,2020-03-02,False,50000
+CUS10002,Entity 3 B.V.,FI,Manufacturing,2021-03-27,False,100000
+CUS10003,Entity 4 AG,IT,Manufacturing,2022-05-15,False,50000
+CUS10004,Entity 5 GmbH,KE,Import/Export,2022-01-05,False,500000
+CUS10005,Entity 6 GmbH,FI,Manufacturing,2025-06-15,False,25000
+CUS10006,Entity 7 SARL,CA,Technology,2021-01-28,False,25000
+CUS10007,Entity 8 GmbH,AT,Real Estate,2022-02-17,False,1000000
+CUS10008,Entity 9 AG,ES,Professional Services,2021-06-30,False,1000000
+CUS10009,Entity 10 AG,FI,Technology,2021-05-16,False,250000
+CUS10010,Entity 11 GmbH,US,Financial Services,2021-04-14,False,100000
+CUS10011,Entity 12 AG,IE,Retail Trade,2021-10-06,False,250000
+CUS10012,Entity 13 S.A.,TR,Logistics,2024-03-05,False,100000
+CUS10013,Entity 14 Ltd,JP,Hospitality,2021-03-25,False,50000
+CUS10014,Entity 15 S.A.,NL,Retail Trade,2023-07-09,False,1000000
+CUS10015,Entity 16 B.V.,PL,Retail Trade,2022-12-19,False,500000
+CUS10016,Entity 17 AG,NL,Manufacturing,2024-12-17,False,100000
+CUS10017,Entity 18 S.A.,KE,Import/Export,2022-07-18,True,1000000
+CUS10018,Entity 19 SARL,IT,Real Estate,2025-02-12,False,1000000
+CUS10019,Entity 20 Ltd,BE,Financial Services,2024-04-10,False,500000
+CUS10020,Entity 21 GmbH,DE,Technology,2025-03-17,False,100000
+CUS10021,Entity 22 GmbH,LU,Construction,2024-02-07,False,25000
+CUS10022,Entity 23 AG,BE,Financial Services,2022-08-31,False,50000
+CUS10023,Entity 24 SARL,ES,Technology,2024-03-26,False,50000
+CUS10024,Entity 25 B.V.,CA,Hospitality,2025-01-16,False,25000
+CUS10025,Entity 26 SARL,IE,Retail Trade,2021-04-16,False,25000
+CUS10026,Entity 27 Ltd,FR,Precious Metals Trading,2020-05-25,False,100000
+CUS10027,Entity 28 SARL,IE,Construction,2022-08-26,False,250000
+CUS10028,Entity 29 B.V.,MC,Construction,2021-12-26,False,250000
+CUS10029,Entity 30 GmbH,NL,Manufacturing,2022-04-04,False,25000
+CUS10030,Entity 31 B.V.,BE,Construction,2021-01-10,False,50000
+CUS10031,Entity 32 GmbH,FI,Retail Trade,2020-04-13,False,500000
+CUS10032,Entity 33 S.A.,AT,Retail Trade,2022-04-12,False,50000
+CUS10033,Entity 34 B.V.,PA,Manufacturing,2021-06-27,False,250000
+CUS10034,Entity 35 S.A.,SE,Financial Services,2021-01-23,False,25000
+CUS10035,Entity 36 GmbH,NG,Financial Services,2020-04-12,False,500000
+CUS10036,Entity 37 GmbH,HR,Financial Services,2024-10-09,False,500000
+CUS10037,Entity 38 S.A.,IE,Art & Antiquities,2023-03-31,False,500000
+CUS10038,Entity 39 Ltd,US,Technology,2021-02-22,False,100000
+CUS10039,Entity 40 Ltd,MC,Hospitality,2022-07-25,False,25000
+CUS10040,Entity 41 SARL,VN,Precious Metals Trading,2021-06-27,False,100000
+CUS10041,Entity 42 B.V.,IT,Construction,2024-09-03,False,100000
+CUS10042,Entity 43 Ltd,YE,Financial Services,2025-03-23,False,50000
+CUS10043,Entity 44 Ltd,BE,Retail Trade,2021-07-31,False,1000000
+CUS10044,Entity 45 GmbH,CH,Real Estate,2020-07-08,False,100000
+CUS10045,Entity 46 S.A.,CH,Money Service Business,2024-02-27,False,1000000
+CUS10046,Entity 47 SARL,TR,Manufacturing,2020-03-14,False,500000
+CUS10047,Entity 48 Ltd,PH,Hospitality,2025-01-15,False,25000
+CUS10048,Entity 49 Ltd,NL,Construction,2024-05-16,False,250000
+CUS10049,Entity 50 S.A.,AT,Professional Services,2025-06-22,False,50000
+CUS10050,Entity 51 B.V.,NG,Manufacturing,2024-06-30,False,1000000
+CUS10051,Entity 52 B.V.,AE,Real Estate,2024-11-21,True,250000
+CUS10052,Entity 53 S.A.,AT,Logistics,2020-02-18,False,250000
+CUS10053,Entity 54 Ltd,CH,Retail Trade,2023-08-06,False,1000000
+CUS10054,Entity 55 GmbH,DE,Financial Services,2024-12-01,False,50000
+CUS10055,Entity 56 B.V.,YE,Real Estate,2021-12-08,False,100000
+CUS10056,Entity 57 S.A.,BG,Financial Services,2021-06-05,True,250000
+CUS10057,Entity 58 AG,LU,Art & Antiquities,2025-02-28,False,100000
+CUS10058,Entity 59 SARL,GB,Retail Trade,2021-09-25,False,100000
+CUS10059,Entity 60 B.V.,ES,Real Estate,2023-09-23,False,1000000
+CUS10060,Entity 61 B.V.,GB,Professional Services,2023-01-27,False,100000
+CUS10061,Entity 62 AG,PL,Hospitality,2021-10-21,False,250000
+CUS10062,Entity 63 AG,IT,Financial Services,2020-06-22,False,1000000
+CUS10063,Entity 64 AG,VN,Import/Export,2021-09-27,False,50000
+CUS10064,Entity 65 SARL,SE,Manufacturing,2024-10-06,False,250000
+CUS10065,Entity 66 B.V.,JP,Technology,2022-03-29,False,1000000
+CUS10066,Entity 67 S.A.,AT,Retail Trade,2024-07-04,False,500000
+CUS10067,Entity 68 B.V.,NL,Financial Services,2020-09-30,False,1000000
+CUS10068,Entity 69 SARL,AU,Financial Services,2024-07-27,False,500000
+CUS10069,Entity 70 AG,IT,Financial Services,2024-10-30,False,100000
+CUS10070,Entity 71 B.V.,DK,Real Estate,2023-07-07,False,250000
+CUS10071,Entity 72 Ltd,US,Money Service Business,2025-01-02,False,50000
+CUS10072,Entity 73 GmbH,ES,Hospitality,2022-04-29,False,500000
+CUS10073,Entity 74 B.V.,SG,Manufacturing,2025-01-27,False,1000000
+CUS10074,Entity 75 Ltd,CA,Crypto Exchange,2024-03-23,False,250000
+CUS10075,Entity 76 B.V.,AT,Financial Services,2021-03-25,False,250000
+CUS10076,Entity 77 AG,JP,Money Service Business,2020-12-04,False,50000
+CUS10077,Entity 78 SARL,SY,Financial Services,2023-03-01,False,25000
+CUS10078,Entity 79 GmbH,IT,Professional Services,2021-06-16,False,50000
+CUS10079,Entity 80 Ltd,JP,Import/Export,2024-03-20,False,250000
+CUS10080,Entity 81 GmbH,FI,Retail Trade,2025-05-03,False,1000000
+CUS10081,Entity 82 S.A.,AT,Precious Metals Trading,2024-09-14,True,50000
+CUS10082,Entity 83 S.A.,IE,Logistics,2022-08-10,False,100000
+CUS10083,Entity 84 S.A.,NL,Technology,2025-05-29,False,500000
+CUS10084,Entity 85 B.V.,JP,Money Service Business,2025-04-12,False,25000
+CUS10085,Entity 86 AG,PH,Construction,2023-05-14,False,500000
+CUS10086,Entity 87 GmbH,CA,Import/Export,2022-11-02,False,25000
+CUS10087,Entity 88 AG,NG,Logistics,2024-12-30,False,1000000
+CUS10088,Entity 89 SARL,CH,Professional Services,2024-07-13,False,250000
+CUS10089,Entity 90 GmbH,AT,Technology,2021-07-25,False,50000
+CUS10090,Entity 91 Ltd,JP,Technology,2020-02-28,False,100000
+CUS10091,Entity 92 Ltd,CH,Construction,2021-07-26,False,1000000
+CUS10092,Entity 93 GmbH,KP,Financial Services,2021-05-09,False,250000
+CUS10093,Entity 94 B.V.,SE,Construction,2024-06-11,True,100000
+CUS10094,Entity 95 Ltd,IE,Construction,2022-08-27,False,100000
+CUS10095,Entity 96 Ltd,AU,Financial Services,2021-09-19,False,25000
+CUS10096,Entity 97 AG,HR,Import/Export,2021-01-14,False,1000000
+CUS10097,Entity 98 SARL,DK,Technology,2021-08-02,False,50000
+CUS10098,Entity 99 AG,PA,Import/Export,2022-12-29,False,25000
+CUS10099,Entity 100 AG,BE,Financial Services,2024-11-13,False,25000
+CUS10100,Entity 101 B.V.,SE,Technology,2021-11-28,False,25000
+CUS10101,Entity 102 B.V.,AE,Logistics,2022-10-04,False,1000000
+CUS10102,Entity 103 Ltd,BG,Professional Services,2020-06-23,False,25000
+CUS10103,Entity 104 S.A.,PL,Hospitality,2024-05-07,False,250000
+CUS10104,Entity 105 Ltd,SG,Real Estate,2023-03-10,False,500000
+CUS10105,Entity 106 AG,ES,Retail Trade,2021-03-08,False,25000
+CUS10106,Entity 107 GmbH,IT,Professional Services,2022-04-16,False,500000
+CUS10107,Entity 108 AG,GB,Manufacturing,2024-10-26,False,1000000
+CUS10108,Entity 109 AG,IE,Real Estate,2024-07-04,False,250000
+CUS10109,Entity 110 S.A.,CH,Construction,2020-05-26,False,100000
+CUS10110,Entity 111 GmbH,AU,Technology,2022-08-17,False,1000000
+CUS10111,Entity 112 B.V.,SE,Real Estate,2020-06-13,False,250000
+CUS10112,Entity 113 S.A.,LU,Technology,2025-05-23,False,500000
+CUS10113,Entity 114 SARL,CH,Manufacturing,2020-03-23,False,50000
+CUS10114,Entity 115 SARL,IT,Logistics,2022-06-11,False,250000
+CUS10115,Entity 116 Ltd,US,Logistics,2023-10-04,False,50000
+CUS10116,Entity 117 SARL,JP,Logistics,2020-03-16,False,100000
+CUS10117,Entity 118 SARL,JP,Retail Trade,2024-08-16,False,1000000
+CUS10118,Entity 119 SARL,ES,Logistics,2022-01-10,False,250000
+CUS10119,Entity 120 S.A.,FI,Manufacturing,2025-03-14,False,1000000
+CUS10120,Entity 121 S.A.,PL,Manufacturing,2023-12-24,False,500000
+CUS10121,Entity 122 B.V.,AE,Crypto Exchange,2025-04-23,False,50000
+CUS10122,Entity 123 B.V.,CH,Real Estate,2024-09-05,False,250000
+CUS10123,Entity 124 SARL,VN,Financial Services,2022-11-06,False,50000
+CUS10124,Entity 125 Ltd,SG,Real Estate,2025-03-28,False,100000
+CUS10125,Entity 126 SARL,IE,Real Estate,2023-09-13,False,50000
+CUS10126,Entity 127 SARL,FI,Logistics,2022-02-11,False,100000
+CUS10127,Entity 128 B.V.,AT,Construction,2020-03-30,False,250000
+CUS10128,Entity 129 B.V.,BE,Hospitality,2025-05-29,True,500000
+CUS10129,Entity 130 GmbH,AU,Import/Export,2022-12-13,False,25000
+CUS10130,Entity 131 GmbH,BE,Hospitality,2022-08-19,False,100000
+CUS10131,Entity 132 AG,US,Hospitality,2024-10-25,False,100000
+CUS10132,Entity 133 SARL,FR,Logistics,2020-05-20,False,1000000
+CUS10133,Entity 134 GmbH,SG,Construction,2024-04-06,False,25000
+CUS10134,Entity 135 Ltd,FR,Real Estate,2024-06-18,False,100000
+CUS10135,Entity 136 SARL,SG,Professional Services,2023-10-28,False,50000
+CUS10136,Entity 137 AG,PL,Technology,2021-05-08,False,500000
+CUS10137,Entity 138 Ltd,AU,Logistics,2023-09-27,True,250000
+CUS10138,Entity 139 Ltd,ZA,Financial Services,2023-04-18,False,250000
+CUS10139,Entity 140 B.V.,ES,Logistics,2024-10-13,False,50000
+CUS10140,Entity 141 GmbH,GB,Import/Export,2024-08-26,False,100000
+CUS10141,Entity 142 Ltd,SE,Precious Metals Trading,2024-05-07,False,500000
+CUS10142,Entity 143 Ltd,PL,Construction,2023-10-20,False,1000000
+CUS10143,Entity 144 Ltd,FR,Professional Services,2024-06-03,False,500000
+CUS10144,Entity 145 Ltd,PH,Professional Services,2024-03-10,False,50000
+CUS10145,Entity 146 SARL,CA,Financial Services,2022-10-24,False,50000
+CUS10146,Entity 147 AG,GB,Logistics,2024-11-17,False,25000
+CUS10147,Entity 148 AG,VN,Retail Trade,2024-01-23,False,250000
+CUS10148,Entity 149 GmbH,JP,Financial Services,2021-06-25,False,250000
+CUS10149,Entity 150 GmbH,CA,Real Estate,2023-10-14,False,25000
+CUS10150,Entity 151 S.A.,PL,Financial Services,2023-08-19,False,250000
+CUS10151,Entity 152 S.A.,NL,Real Estate,2020-04-02,False,100000
+CUS10152,Entity 153 S.A.,HR,Retail Trade,2022-03-06,False,1000000
+CUS10153,Entity 154 B.V.,BE,Financial Services,2023-09-03,False,250000
+CUS10154,Entity 155 S.A.,MM,Real Estate,2022-06-27,False,50000
+CUS10155,Entity 156 SARL,CA,Retail Trade,2025-01-20,False,100000
+CUS10156,Entity 157 B.V.,NL,Money Service Business,2020-07-06,False,1000000
+CUS10157,Entity 158 S.A.,NG,Manufacturing,2020-09-14,False,50000
+CUS10158,Entity 159 Ltd,AT,Art & Antiquities,2024-05-04,False,500000
+CUS10159,Entity 160 Ltd,FI,Art & Antiquities,2024-06-23,False,1000000
+CUS10160,Entity 161 SARL,KP,Professional Services,2021-10-25,True,100000
+CUS10161,Entity 162 B.V.,LU,Crypto Exchange,2022-07-07,False,500000
+CUS10162,Entity 163 GmbH,PL,Logistics,2024-01-29,False,1000000
+CUS10163,Entity 164 GmbH,DE,Logistics,2022-09-07,False,250000
+CUS10164,Entity 165 GmbH,AU,Logistics,2025-01-15,False,500000
+CUS10165,Entity 166 SARL,IE,Professional Services,2023-12-29,False,500000
+CUS10166,Entity 167 GmbH,SG,Logistics,2024-06-12,False,1000000
+CUS10167,Entity 168 B.V.,ES,Financial Services,2022-07-13,False,250000
+CUS10168,Entity 169 Ltd,NL,Logistics,2022-05-24,False,100000
+CUS10169,Entity 170 GmbH,SE,Professional Services,2020-07-05,False,25000
+CUS10170,Entity 171 GmbH,FI,Import/Export,2023-04-16,False,500000
+CUS10171,Entity 172 AG,SG,Retail Trade,2020-04-15,False,500000
+CUS10172,Entity 173 S.A.,ES,Retail Trade,2023-09-06,False,25000
+CUS10173,Entity 174 SARL,CH,Financial Services,2021-04-08,False,500000
+CUS10174,Entity 175 GmbH,FI,Technology,2023-06-01,False,1000000
+CUS10175,Entity 176 Ltd,GB,Professional Services,2021-12-19,True,50000
+CUS10176,Entity 177 GmbH,MC,Hospitality,2020-07-06,False,50000
+CUS10177,Entity 178 Ltd,CA,Logistics,2024-01-17,False,500000
+CUS10178,Entity 179 GmbH,BG,Manufacturing,2023-10-12,False,250000
+CUS10179,Entity 180 Ltd,SG,Logistics,2021-03-17,False,25000
